@@ -1,0 +1,31 @@
+p#intro {
+font-size: 20px;
+}
+
+#image {
+    width: 10%;
+}
+
+
+
+p {
+    justify-content: left;
+}
+
+
+.profile {
+    height: 150px;
+    width: auto;
+}
+
+img {
+    width: 70%
+
+}
+.image1 {
+    width: 100%;
+}
+
+#click {
+    text-align: center;
+}
